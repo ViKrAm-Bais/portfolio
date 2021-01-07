@@ -1,0 +1,9 @@
+---
+layout: page
+title:  "Blog2"
+date:   2021-01-07 20:22:58 +0530
+categories: jekyll one
+permalink: /blog2/
+author: "Vikram Bais"
+---
+This is new blog
